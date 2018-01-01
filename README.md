@@ -17,11 +17,13 @@ Do the math! Manipulate equations on your android device. In honor of the math t
  * Handle physical units.
  * Provide a formula data base descibing all variables of an equation.
 
-
 # Components (Software building blocks)
  * Workflow oriented UI
  * Equation rendering
+ * Gesture handling
+ * Equation manipulation
 
-
+# Inspirations
+ * [ppcalculator](https://github.com/serso/android-calculatorpp)
 
 
